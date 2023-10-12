@@ -23,7 +23,7 @@ The "Twitter" smart contract, developed in Solidity, serves as the backend for a
 ## Contract Structures
 
 ### User Struct
-- Represents a user with fields like user ID, username, public key, and a list of instructors they follow.
+- Represents a user with fields like user ID, username, public key, and a list of instructors they follow..
 
 ### Instructor Struct
 - Represents an instructor with fields like instructor ID, username, public key, number of followers, list of followers, post count, status (free/busy), file hash, and a QR code.
